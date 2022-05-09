@@ -1,0 +1,137 @@
+body{
+
+    margin: 0;
+    text-align: center;
+    font-family: 'Libre-Bodoni',sans-serif;
+    background-color: #FAD9E6
+}
+.topcontainer{
+  background-color:#E4AEC5;
+
+}
+h1{
+  margin: 0;
+  font-family: 'Parisienne', cursive;
+  padding-top: 50px;
+  line-height: 2;
+  font-size: 90px;
+}
+h2{
+  font-size: 31px;
+  font-weight: normal;
+  color: #06113C;
+}
+h3
+{
+  color: #151D3B;
+  /* line-height: 5; */
+}
+
+
+.cloud
+{
+  position: absolute;
+}
+.cloud2
+{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.skill-row{
+  width:50%;
+  margin : 100px auto 100px  auto ;
+  text-align: left;
+  line-height: 2;
+}
+
+.bio{
+  margin-bottom: 40px;
+}
+
+
+
+.computer{
+  float:left;
+  margin-right: 30px;
+}
+
+.non-tech
+{
+  float:right;
+  text-align: right;
+  margin-left: 30px;
+}
+
+.non-tech-skill
+{
+  width:50%;
+  margin : 80px auto 80px  auto ;
+  text-align: right;
+  line-height: 2;
+
+}
+
+.profile
+{ width:50%;
+  line-height: 2;
+  margin : 100px auto 0  auto ;
+
+}
+
+/* .middle-container
+{
+  background-color: #FAD9E6;
+} */
+.bottom-container
+{
+  background-color: #AC7D88;
+  height: 190px;
+
+}
+
+
+hr{
+
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+.btn {
+  background-color: #AC7D88;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom:60px;
+}
+
+
+
+
+.contact-me
+{
+  line-height: 2;
+}
+
+.bottom-container{
+  padding-top: 50px;
+}
+.footer-link
+{
+  color: #06113C;
+  font-weight: bold;
+  margin-right: 10px;
+
+}
+
+.text
+{
+  color:white;
+}
